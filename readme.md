@@ -1,6 +1,6 @@
 # BOOTSTRAP
 
-| DATO | CONCEPT |
+| DATA | CONCEPT |
 | --- | --- |
 | GRILLAS | Es una modelo invisble de 12 columnas, facilita el diseño de la web |
 | COLUMNAS | Ayuda en la disposición del contenido, la division de columnas debe sumar 12 |
